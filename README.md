@@ -5,6 +5,7 @@ iOS Developer | Self Learner
 
 Here are some ideas to get you started:
 
+
 About Me:
 
 - 🌱I’m currently learning Swift
@@ -15,3 +16,4 @@ About Me:
 
 
 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=anlavc&show_icons=true&theme=radical)
